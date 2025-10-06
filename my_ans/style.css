@@ -18,13 +18,13 @@ body {
 .main-card {
     background-color: hsl(0, 0%, 100%);
     border-radius: 20px;
-    width: 320px;
+    width: 300px;
     padding: 1rem;
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.13);
     /*for shadow*/
     text-align: center;
     /*align text of this box in center*/
-}
+
 
 .title {
     font-size: 1.2rem;
